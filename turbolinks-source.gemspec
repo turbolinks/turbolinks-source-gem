@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.license  = 'MIT'
   s.homepage = 'https://github.com/turbolinks/turbolinks-source-gem'
   s.summary  = 'Turbolinks JavaScript assets'
-  s.files    = Dir["lib/turbolinks/source.rb", "lib/assets/javascripts/*", "README.md", "LICENSE"]
+  s.files    = Dir["lib/turbolinks/source.rb", "lib/turbolinks/source/version.rb", "lib/assets/javascripts/*", "README.md", "LICENSE"]
 end
